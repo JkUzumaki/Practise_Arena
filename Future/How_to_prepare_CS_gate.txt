@@ -1,0 +1,19 @@
+1. TOC (Theory of computation) Very easy 
+    Mark: (min 3, avg 6, max 8)
+    Everything will be problematic
+
+    Text book: Ullman
+
+2. Compiler Design 
+    Mark: (min: 3, Avg: 4, Max:6)
+
+    Book: 
+        Compiler design technique tool and principle (aho, ullman, ravi sethi)
+
+3. Digital logic design
+    Mark: (3, 5, 8)
+    Its very important and easy scoring
+
+    Book:
+        R.P Jain, Moris mano, Zho kohan
+        

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/view01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Jarvis"
+        android:textSize="40sp"
+        android:textColor="#e39b00"
+        android:background="#2e73dc"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+
+
+    <TextView
+        android:id="@+id/view02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:
+        android:background="#133a76"
+        android:padding="5dp"
+        android:text="Welcome 2 sundays samayal!"
+        android:textColor="#ef7101"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:layout_gravity = ""/>
+
+</RelativeLayout>
